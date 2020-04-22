@@ -1,5 +1,6 @@
 import java.util.*;
 public class HeapBottomUp {
+	//Look for HeapSortExample.java for function example
 	public static void main(String args[]) {
 		
 		Scanner in = new Scanner(System.in);
