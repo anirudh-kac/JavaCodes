@@ -35,7 +35,7 @@ public class HeapSortExample {
 			H[1] = H[n];
 			H[n] = max;
 			n--;
-			makeHeap(H,n)
+			makeHeap(H,n);
 		}
 		
 	}
